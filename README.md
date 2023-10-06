@@ -1,69 +1,138 @@
-## Your Name
+## Taofeek Ladipo
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Experienced DevOps engineer skilled in automating deployments and managing large-scale infrastructure using AWS,Terraform,Kubernetes, Docker, Azure, and Jenkins. Transitioned from a QA Analyst role with a background in software solutions and system improvements. Excited about the evolving tech industry and eager to contribute expertise to cutting-edge DevOps practices.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
-
+| Name                              | Description                                    | Tech/tools                                                                       |
+|-----------------------------------|------------------------------------------------|----------------------------------------------------------------------------------|
+|  Introduction to Python           | Create and test python applications(Password Validator, Password Manager 1&2 | Python fundamentals,factoring, debugging, Repl     |              |  The Golden Square Challenges     | Test-driving,debugging,object-oriented design, pairing                               | TDD, Mocking,Python                        |
+|  Containerized Application Deployment|Deploy container to AWS and learn their uses                                       | AWS, Docker (for containerization)         |
+|  CI/CD & Serverless Website Deployment |Deploy a static website using Git-based CI/CD and Serverless architecture to AWS | Git(for version control, AWS,CI/CD tools   |
+|  Full-Stack Application Deployment on AWS|Configuration management to deploy a full-stack application using IaC tools    | Terraform, AWS CloudFormation, Ansible     |
+|  Container Orchestration with Kubernetes|hands-on experience with container orchestration and Kubernetes                 | Kubernetes(for container orchestration)    |
+|  Cloud Application Security   |Enhance cloud application security through threat modeling and corrective actions |security tools for threat modeling and investigation|
+|  SRE Problem Solving          |Debugging, resolving, and preventing common site reliability issues in a live application | Diagnostic and debugging tools             |
+|  Engineering Project 1 (Makersbnb)| Deliver Agile project                                                                | Trello, Agile sprint and ceremonies        |
+                                                |
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+Makers (July 2023 – Dec 2023)
+DevOps Engineer (Trainee)
+Proficient in Full-Stack Python, HTML, CSS, Node.js, Express.js, and Jest. Strong foundation in Ruby, including Java 17.
+- Automated build and deployment with Docker containers and CI/CD pipelines using Git Actions, Jenkins, AWS, and Azure.
+- Skilled in networking fundamentals (VPC / VPCSC / VPN) for error reduction and faster production processes.
+- Implemented DevOps best practices, including Git branching models and configuration management for efficient CI/CD.
+- Managed Kubernetes local deployments, creating clusters and deploying applications.
+- Developed full-stack and frontend web applications using JavaScript, React.js, Node.js, PostgreSQL, HTML, and CSS.
+- Practised test-driven development (TDD) with unit, integration, and feature tests.
+- Collaborated with agile teams using scrum and Kanban methodologies for effective project delivery.
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+5E Limited (Aug 2022 – Jun 2023)
+Network Administrator/Engineer (Cisco trained)
+- Proficient in Cisco Network Routing and Switching for LAN/WAN/Security/QoS.
+- Experienced in troubleshooting Layer 2 and 3 issues using routing protocols, including MPLS, BGP, EIGRP, OSPF, and STP.
+- Configured Switches, Routers, Wireless, Firewalls, and EtherChannels.
+- Designed technical solutions and provided high-level technical support to meet customer requirements.
+- Demonstrated expertise in TCP/IP and OSI layer.
+- Utilized networking tools and best practices for network design, installation, security, support, troubleshooting, and optimization.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+Digital Bananas Technology (Apr 2020 – Sept 2020)
+Scrum Master
+- Created Real Estate Marketing Strategies.
+- Delivered Agile ceremonies, collaborated with development teams, and managed impediments and dependencies.
+- Performed regular team updates on RAID logs, status reports, meeting notes, and presented during Scrum of Scrum.
 
-- Any experience relevent to software development
+Worldpay (FIS) (Sept 2019 – Mar 2020)
+Quality Assurance Analyst
+- Conducted functional tests on financial platforms using SoapUI, DTU, and Postman, and automated testing with tools like ACG, Jenkins, and GitHub to implement CI/CD pipelines.
+- Collaborated with product owners, project managers, scrum masters, and stakeholders to improve software delivery within Agile Release Trains.
+- Prepared Test Completion Reports (TCR) using tools like Trunk Merger Tracker, GitHub, JIRA/Rally, and participated in smoke tests and backward compatibility tests.
+- Created knowledge transfer materials and conducted team presentations on topics including SAFe, SDLC, Definition of Ready (DOR), Definition of Done (DOD), ACG, and the Release  process.
+- Utilized communication tools such as Microsoft Teams, Jabber, Conferencing, and Symantec VIP for effective team collaboration and knowledge sharing.
+
+Marks and Spencer Plc (May 2010 – Mar 2014)
+Customer Advisory Services
+- Resolved customer complaints and inquiries through various channels, including face-to-face interactions, inbound telephone calls, and electronic tools.
+- Proficiently conducted EPOS (Electronic Point of Sale) operations for efficient transaction processing.
+- Managed merchandising operations within the Foods department, overseeing stock organization and monitoring top-selling product lines.
+- Oversaw stock delivery, distribution, and managed customer requests, including refunds, returns, and order alterations.
+
+Meade Investment (Sept 2008 – Apr 2010)
+Loan Collections Consultant
+- Managed loan applications through telephone campaigns, contributing to the team's highest loan success rate over a three-month period.
+- Designed an efficient loan recovery strategy, resulting in an average weekly loan repayment of £1500.
+- Collaborated with various departments by facilitating the transfer of direct requests and unresolved issues to specialized teams, effectively addressing debts and loan inquiries for USA clients.
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
+Technical Skills
+- Proficient in Excel, with expertise in data analysis and analytics software.
+- Skilled in functional system testing techniques and experienced with the Bug Life Cycle.
+- Possess a strong understanding of Software Development Life Cycle (SDLC) methodologies, including Waterfall and V-Model, as well as Agile frameworks.
+- Knowledgeable in PI Planning and Agile Release Train (ART) methodologies.
 
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
+Continuous Learning
+- Actively engaged in online courses and webinars on various platforms, including edX, Udemy, and LogiSYM.
+- Completed courses in product management, data analysis, Excel, Scrum, and project management.
+- Gained proficiency in Python programming, financial analysis, and valuation.
+- Continuously updated skills through participation in webinars and seminars on topics such as digital technology and SAFe (Scaled Agile Framework).
+- Committed to staying informed about industry trends and best practices.
 
-
-Here's an example
-
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
-
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
-
-
-## Education
-
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+Demonstrated Leadership
+- Successfully managed loan collections campaigns, achieving high repayment rates and leading to a promotion to a team leader role.
+- Contributed to improving school performance ratios as a Parent Governor at Sir Thomas Abney Primary School.
+- Developed and delivered training sessions, including one on the use of mocks for improving unit test isolation, which received positive feedback.
 
 #### Your University / College (start_date to end_date)
+Heriot Watt University, Edinburgh Business School (2009 - 2011)
+Master of Business Administration (MBA)
+Average Grade of A
+Project Management, Organisational Behaviour, Strategic Planning, Negotiation, Marketing, Customer Behaviour
+List of Top International MBA Graduates
+WATT Club Life Member
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+University of Ibadan, Nigeria (2000 - 2002)
+Master of Science (MSc) in Agricultural Economics and Management
+MPhil/PhD Grade
+
+University of Agriculture, Abeokuta, Nigeria (1995 - 1999)
+Bachelor’s degree (BSc) in Agricultural Economics
+Class: 2:1
+
+Ahmadu Bello University, Zaria, Nigeria (1991 -1993)
+National Diploma in Agricultural Technology
+Upper Credit Grade
+Best Graduating Student 
 
 #### Any other qualifications
+Makers DevOps/Cloud Engineering Graduate
+Year: 2023
 
-That in some arguable way make you a better software developer or well-rounded person
+City & Guilds Level 3 Diploma
+ICT Systems and Principles for IT Professionals
+Year: 2023
 
-## Hobbies
+Cisco Certified CCNA (v7.02)
+Cisco Networking Technologies
+Year: 2022 - 2023
+Certification: Cisco Network Associate
 
-Any cool stuff that makes you a super part of a software development team
+SAFe 4.6 & 5 Certified
+Scaled Agile Framework
+Year: 2020
+Member, Global Community
+
+Software Testing certification (ISTQB - Foundation)
+Year: 2011
+Member, BCS Chartered Institute for IT
+
+Prince2 Certified
+Year: 2009
+Member, APMG-International
+
+#### Hobbies
+- Reading and Writing
+- Listening to Music
+- Team sports and Indoor games
+- Traveling
