@@ -4,17 +4,25 @@ Experienced DevOps engineer skilled in automating deployments and managing large
 
 ## Projects
 
-| Name                              | Description                                    | Tech/tools                                                                       |
-|-----------------------------------|------------------------------------------------|----------------------------------------------------------------------------------|
-|  Introduction to Python           | Create and test python applications(Password Validator, Password Manager 1&2 | Python fundamentals,factoring, debugging, Repl     |              |  The Golden Square Challenges     | Test-driving,debugging,object-oriented design, pairing                               | TDD, Mocking,Python                        |
+| Name                               | Description                                                                         | Tech/tools                                 |
+|------------------------------------|-------------------------------------------------------------------------------------|--------------------------------------------|
+|  Command Line and Version Control  | Manipulate files and directory structures using the command line. Track changes to  | CLI,Git(for version control)               |              | (Python Foundations and Developer Tools)| the codes using Git version control and learn to write procedural programs.    |                                            |              
+|  Engineering Practices Mastery     | Apply and explain four key engineering practices:test-driven development,program    | Development tools(VS Code) for writing and |
+|  (Golden Square)                     design,debugging, and pair programming.                                             | testing code. Pair programming technique   |              |  Database-backed Web Applications  | Design multi-table databases, use SQL to query databases, and integrate a relational| SQL for database querying                  |
+|                                    | database into a web application.Use HTTP requests request to modify web applications| Web application development frameworks     |              |                                    | and apply golden square engineering practices to a web application.                 | HTTP request tools                         |              |                                    |                                                                                     | Database management systems                |  
+|  Cloud Deployment and CI/CD        | Deploy a database-backed web application to the cloud using CI/CD practices.        | Networking concepts. CI/CD pipelines.      |
+|                                    | Manage code transitions from running on a local computer to running on a publicly   | Cloud platforms for deployment             |              |                                    | accessible server.Understand the importance of CI./CD in software teams.            | Containerization tools                     |
+|  Agile Software Development        | Build an application based on a given specification, similar to an Airbnb-style     | Agile project management tools(Trello,Jira)|
+|  Engineering Project 1 (Makersbnb) | website.Use agile software development processes to build a product efficiently.    | Web development frameworks and languages   |
+|                                    |                                                                                     | Collaboration and communication tools      |
 |  Containerized Application Deployment|Deploy container to AWS and learn their uses                                       | AWS, Docker (for containerization)         |
 |  CI/CD & Serverless Website Deployment |Deploy a static website using Git-based CI/CD and Serverless architecture to AWS | Git(for version control, AWS,CI/CD tools   |
-|  Full-Stack Application Deployment on AWS|Configuration management to deploy a full-stack application using IaC tools    | Terraform, AWS CloudFormation, Ansible     |
+|  Full-Stack Application Deployment on AWS| Deploy a full-stack application to AWS resolving deployment issues and gain   | AWS (Amazon Web Services)                  |              |                                          | experience with AWS Identity and Access Management (IAM).                     | AWS IAM (Identity and Access Management)   |
+|  Full-Stack Application Deployment using IaC|Configuration management to deploy a full-stack application using IaC tools | Terraform, AWS CloudFormation, Ansible     |
 |  Container Orchestration with Kubernetes|hands-on experience with container orchestration and Kubernetes                 | Kubernetes(for container orchestration)    |
 |  Cloud Application Security   |Enhance cloud application security through threat modeling and corrective actions |security tools for threat modeling and investigation|
 |  SRE Problem Solving          |Debugging, resolving, and preventing common site reliability issues in a live application | Diagnostic and debugging tools             |
-|  Engineering Project 1 (Makersbnb)| Deliver Agile project                                                                | Trello, Agile sprint and ceremonies        |
-                                                |
+                                                
 ## Work Experience
 
 Makers (July 2023 – Dec 2023)
@@ -50,6 +58,12 @@ Quality Assurance Analyst
 - Prepared Test Completion Reports (TCR) using tools like Trunk Merger Tracker, GitHub, JIRA/Rally, and participated in smoke tests and backward compatibility tests.
 - Created knowledge transfer materials and conducted team presentations on topics including SAFe, SDLC, Definition of Ready (DOR), Definition of Done (DOD), ACG, and the Release  process.
 - Utilized communication tools such as Microsoft Teams, Jabber, Conferencing, and Symantec VIP for effective team collaboration and knowledge sharing.
+
+Sir Thomas Abney Primary School (Career Break Activities, Jan 2014 – Jan 2018)
+Parent Governor (Fixed-Term Role)
+- Improved the school's performance ratios by 15%.
+- Improved teaching methods by reviewing staffing levels, work conditions, and salaries.
+- Liaised with the community, parents, and local authority to safeguard and protect the best interests of young people.
 
 Marks and Spencer Plc (May 2010 – Mar 2014)
 Customer Advisory Services
