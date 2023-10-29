@@ -22,7 +22,7 @@ Experienced DevOps engineer skilled in automating deployments and managing large
 |  Container Orchestration with Kubernetes|hands-on experience with container orchestration and Kubernetes                 | Kubernetes(for container orchestration)    |
 |  Cloud Application Security   |Enhance cloud application security through threat modeling and corrective actions |security tools for threat modeling and investigation|
 |  SRE Problem Solving          |Debugging, resolving, and preventing common site reliability issues in a live application | Diagnostic and debugging tools             |
-                                                
+|  Reliability Project       |Improve the efficiency, availability and security of an existing system and execute migration |API, AWS Lambda,S3, NginX, Server Migration|                                            
 ## Work Experience
 
 Makers (July 2023 – Dec 2023)
